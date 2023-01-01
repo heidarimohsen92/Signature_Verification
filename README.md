@@ -4,4 +4,7 @@
 
 test loss: 0.0882,  test acc: 0.9958
 
-![image](https://user-images.githubusercontent.com/51045212/210162680-869f1990-3b6a-4dd6-9376-8f5f696da1c7.png)
+threshold: 0.4243
+
+## result
+![result](https://user-images.githubusercontent.com/51045212/210162784-2ec150d2-6565-43ec-8b09-d300c804a870.png)
